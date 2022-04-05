@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+skin that smoke wagon
 Use the left arrow to go back!
